@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/194720353?v=" width="200" style="border-radius: 50%;" alt="ReRowet" />
+  <img src="https://avatars.githubusercontent.com/u/184258984?v=4" width="200" style="border-radius: 50%;" alt="ReRowet" />
   <h1>
     👋 Hello, I'm ZkZora!
   </h1>
